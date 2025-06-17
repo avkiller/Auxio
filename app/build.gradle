@@ -17,7 +17,7 @@ android {
     namespace "org.oxycblt.auxio"
 
     defaultConfig {
-        applicationId namespace
+        applicationId "com.fireworld.auxio"
         versionName "4.0.5"
         versionCode 64
 
